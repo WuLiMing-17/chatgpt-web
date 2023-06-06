@@ -1,7 +1,9 @@
 # chatgpt-web
 chatgpt可商用版 前端 + 后端，直接部署，适用所有key
 演示
+
 Link
+
 Web Demo: https://www.aizj.top/
 
 Web 演示: https://www.aizj.top/
@@ -17,5 +19,7 @@ Admin 演示: https://www.aizj.top/admin
 
 
 直接加，找我要
+放心，好用不贵，价格实惠，拿来直接二开没问题
+
 ![image](https://github.com/WuLiMing-17/chatgpt-web/assets/76948164/663112a1-b1fa-4e65-9713-9fa8c413135f)
 
